@@ -316,8 +316,8 @@ function M.setup(colors, config)
     hi.TSURI                              = { guifg = M.colors.base09, guibg = nil, gui = 'underline', guisp = nil }
     hi.TSType                             = { guifg = M.colors.base0A, guibg = nil, gui = 'none', guisp = nil }
     hi.TSTypeBuiltin                      = { guifg = M.colors.base0A, guibg = nil, gui = 'italic', guisp = nil }
-    hi.TSVariable                         = { guifg = M.colors.base08, guibg = nil, gui = 'none', guisp = nil }
-    hi.TSVariableBuiltin                  = { guifg = M.colors.base08, guibg = nil, gui = 'italic', guisp = nil }
+    hi.TSVariable                         = { guifg = M.colors.base04, guibg = nil, gui = 'none', guisp = nil }
+    hi.TSVariableBuiltin                  = { guifg = M.colors.base04, guibg = nil, gui = 'italic', guisp = nil }
 
     hi.TSDefinition                       = { guifg = nil, guibg = nil, gui = 'underline', guisp = M.colors.base04 }
     hi.TSDefinitionUsage                  = { guifg = nil, guibg = nil, gui = 'underline', guisp = M.colors.base04 }
