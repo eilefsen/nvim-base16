@@ -140,7 +140,7 @@ function M.setup(colors, config)
     hi.IncSearch                          = { guifg = M.colors.base01, guibg = M.colors.base09, gui = 'none', guisp = nil }
     hi.Italic                             = { guifg = nil, guibg = nil, gui = 'none', guisp = nil }
     hi.Macro                              = { guifg = M.colors.base08, guibg = nil, gui = nil, guisp = nil }
-    hi.MatchParen                         = { guifg = nil, guibg = M.colors.base01, gui = nil, guisp = nil }
+    hi.MatchParen                         = { guifg = nil, guibg = M.colors.base02, gui = nil, guisp = nil }
     hi.ModeMsg                            = { guifg = M.colors.base0B, guibg = nil, gui = nil, guisp = nil }
     hi.MoreMsg                            = { guifg = M.colors.base0B, guibg = nil, gui = nil, guisp = nil }
     hi.Question                           = { guifg = M.colors.base0D, guibg = nil, gui = nil, guisp = nil }
