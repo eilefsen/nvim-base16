@@ -185,7 +185,7 @@ function M.setup(colors, config)
     hi.Delimiter                          = { guifg = M.colors.base0F, guibg = nil, gui = nil, guisp = nil }
     hi.Float                              = { guifg = M.colors.base09, guibg = nil, gui = nil, guisp = nil }
     hi.Function                           = { guifg = M.colors.base0D, guibg = nil, gui = nil, guisp = nil }
-    hi.Identifier                         = { guifg = M.colors.base08, guibg = nil, gui = 'none', guisp = nil }
+    hi.Identifier                         = { guifg = M.colors.base04, guibg = nil, gui = 'none', guisp = nil }
     hi.Include                            = { guifg = M.colors.base0D, guibg = nil, gui = nil, guisp = nil }
     hi.Keyword                            = { guifg = M.colors.base0E, guibg = nil, gui = nil, guisp = nil }
     hi.Label                              = { guifg = M.colors.base0A, guibg = nil, gui = nil, guisp = nil }
