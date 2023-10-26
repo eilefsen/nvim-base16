@@ -1,3 +1,8 @@
+## Fork
+
+This repo was forked for the sole purpose of changing the identifier hlgroup to a white base color. I simply can't stand red identifiers.
+This repo is no longer used by me. I am keeping it here to allow compatibility with former versions of my dotfiles
+
 # nvim-base16
 
 Neovim plugin for building base16 colorschemes with support for Neovim's
